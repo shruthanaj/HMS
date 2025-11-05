@@ -689,18 +689,3 @@ staff_audit_log (
 ✅ Service details not duplicated in booking_services  
 ✅ Derived attributes (total_nights, total_amount) calculated via triggers  
 
----
-
-**[CONTINUED IN NEXT PART...]**
-
-Would you like me to continue with the remaining sections? The document is quite comprehensive and I need to create it in parts. Shall I proceed with:
-- DDL Commands
-- CRUD Screenshots
-- Features & Screenshots
-- Triggers
-- Stored Procedures
-- Code Snippets
-- SQL Files
-- GitHub link
-
-Please confirm and I'll continue creating the complete report!
