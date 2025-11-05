@@ -6,7 +6,6 @@ A comprehensive full-stack web application designed to streamline and automate h
 [![Node.js](https://img.shields.io/badge/Node.js-20.17.0-green.svg)](https://nodejs.org/)
 [![Express](https://img.shields.io/badge/Express-4.18.2-lightgrey.svg)](https://expressjs.com/)
 [![MySQL](https://img.shields.io/badge/MySQL-8.0+-orange.svg)](https://www.mysql.com/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -23,7 +22,6 @@ A comprehensive full-stack web application designed to streamline and automate h
 - [Screenshots](#screenshots)
 - [Advanced Features](#advanced-features)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
