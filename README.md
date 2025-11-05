@@ -728,19 +728,14 @@ See [BUG_FIXES_LOG.md](hotel_management_system/BUG_FIXES_LOG.md) for detailed is
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👨‍💻 Author
 
 **Shruthana J**
 - GitHub: [@shruthanaj](https://github.com/shruthanaj)
 - Project: [Hotel Management System](https://github.com/shruthanaj/HMS)
+
 **Sheshagiri S**
-- GitHub: [@shruthanaj](https://github.com/pes1ug24cs832)
+- GitHub: [@pes1ug24cs832](https://github.com/pes1ug24cs832)
 - Project: [Hotel Management System](https://github.com/shruthanaj/HMS)
 ---
 
