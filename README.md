@@ -560,13 +560,13 @@ POST   /api/procedures/update-loyalty-points    # Update points
 ## 🎨 Screenshots
 
 ### Dashboard
-![Dashboard](https://via.placeholder.com/800x400?text=Dashboard+Screenshot)
+![Dashboard](hotel_management_system/dashboard.png)
 
 ### Bookings Management
-![Bookings](https://via.placeholder.com/800x400?text=Bookings+Screenshot)
+![Bookings](hotel_management_system/bookings.png)
 
 ### Analytics Dashboard
-![Analytics](https://via.placeholder.com/800x400?text=Analytics+Screenshot)
+![Analytics](hotel_management_system/analytics.png)
 
 ---
 
