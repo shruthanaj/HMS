@@ -10,20 +10,12 @@
 **Project Title:** Hotel Management System with Advanced Database Features
 
 **Team Members:**
-- Student Name: [Your Name]
-- USN: [Your USN]
-- Section: [Your Section]
-
-**Institution:** [Your College Name]  
+- Student Name: [SHRUTHANA J]
+- USN: [PES1UG24CS833]
+- Section: [H] 
 **Department:** Computer Science and Engineering  
 **Academic Year:** 2024-2025  
-**Semester:** III
-
-**Submitted to:**  
-**Faculty Name:** [Professor's Name]  
-**Department of Computer Science and Engineering**
-
-**Date of Submission:** November 4, 2025
+**Semester:** V
 
 ---
 
